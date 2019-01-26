@@ -3,6 +3,8 @@ Changelog
 
 next:
 	* Build: Migrate from pep8 to pycodestyle (Darko Poljak)
+	* Core: Add preos functionality (Darko Poljak)
+	* Core: Add trigger functionality (Nico Schottelius, Darko Poljak)
 
 4.10.6: 2019-02-15
 	* Type __prometheus_alertmanager: Add startup flag (Dominique Roux)
